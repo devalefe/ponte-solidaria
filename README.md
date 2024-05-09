@@ -2,10 +2,7 @@
 
 <p>O aplicativo <strong>Ponte Solidária</strong> tem como objetivo conectar voluntários à pessoas que precisem de qualquer tipo de apoio, seja emocional/psicológico, assistência médica, odontológica e o que mais for preciso.</p>
 
-
-Usar commits semanticos:
-
-## Tipo e descrição
+## Padrões de commit
 
 O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
 
